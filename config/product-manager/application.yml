@@ -19,7 +19,3 @@ products:
   exclusives:
   - "Assistance"
   - "24hService"
-
-management:
-  security:
-    enabled: false
