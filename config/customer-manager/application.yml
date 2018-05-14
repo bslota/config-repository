@@ -15,4 +15,4 @@ eureka:
     leaseRenewalIntervalInSeconds: 10 # intervalSeconds between subsequent heartbeats sent to Eureka server
     leaseExpirationDurationInSeconds: 20 # time that Eureka server waits since it received last heartbeat before it can evict this instance
 
-premium-email-suffix: yahoo.com
+premium-email-suffix: gmail.com
