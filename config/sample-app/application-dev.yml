@@ -1,2 +1,2 @@
-sample:
-  property: Dev property value
+common:
+  description: My fancy DEV description

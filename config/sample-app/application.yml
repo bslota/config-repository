@@ -1,3 +1,2 @@
-sample:
-  property: Sample property value
-  second-property: Second property value
+common:
+  description: My fancy description

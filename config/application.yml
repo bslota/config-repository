@@ -1,2 +1,3 @@
-some:
-  property: Property common for all apps
+common:
+  label: My commmon label
+  description: My common description
